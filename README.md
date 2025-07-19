@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm cleantrader
 
-<!--
-**cleantrader/cleantrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Smart Contract & dApp Developer | Testnet Contributor | Web3 Enthusiast  
+🔧 Focused on building and deploying contracts on EVM-compatible chains like Ethereum, Monad, Base & more  
+🚀 Actively experimenting with testnets and contributing to early-stage L1s  
+💡 Passionate about permissionless tech, open-source tools, and decentralized finance
 
-Here are some ideas to get you started:
+## 🧪 Current Testnets I'm Working On
+- **Monad Testnet** — Deploying & testing smart contracts  
+- **Scroll / Base / Blast** — Ongoing testing, feedback, and tooling  
+- **Starknet / ZK projects** — Experimenting with Cairo & zkEVMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🔁 Counter Contract on Monad Testnet 
+- 📦 On-chain utility tools (gas checkers, mock tokens, etc.)
+- ✍️ Templates for fast smart contract deployment with Foundry
+
+## 📬 Let's Connect
+- 🐦 Twitter: [@cleantrader](https://twitter.com/cleantrader1996) 
+- 💼 GitHub: [cleantrader](https://github.com/cleantrader)
+
+---
+
+💚 I'm here to learn, build, and contribute. Always open to collaborate on cool Web3 ideas!
